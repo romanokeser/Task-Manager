@@ -1,0 +1,18 @@
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\bin\Debug\WindowsTaskManager.exe.config
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\bin\Debug\WindowsTaskManager.exe
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\bin\Debug\WindowsTaskManager.pdb
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\obj\Debug\WindowsTaskManager.csprojAssemblyReference.cache
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\obj\Debug\WindowsTaskManager.Form1.resources
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\obj\Debug\WindowsTaskManager.Properties.Resources.resources
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\obj\Debug\WindowsTaskManager.csproj.GenerateResource.cache
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\obj\Debug\WindowsTaskManager.exe
+D:\Faks\Operacijski sustavi\vjezba 6 task manager\WindowsTaskManager\WindowsTaskManager\obj\Debug\WindowsTaskManager.pdb
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\bin\Debug\WindowsTaskManager.exe.config
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\bin\Debug\WindowsTaskManager.exe
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\bin\Debug\WindowsTaskManager.pdb
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\obj\Debug\WindowsTaskManager.csprojAssemblyReference.cache
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\obj\Debug\WindowsTaskManager.Form1.resources
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\obj\Debug\WindowsTaskManager.Properties.Resources.resources
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\obj\Debug\WindowsTaskManager.csproj.GenerateResource.cache
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\obj\Debug\WindowsTaskManager.exe
+D:\Faks\GitHub\Task-Manager\WindowsTaskManager\obj\Debug\WindowsTaskManager.pdb
